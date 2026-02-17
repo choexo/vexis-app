@@ -20,8 +20,4 @@ the original terminal code has been modified to include **voice functionality**.
 
 ---
 
-### system logs
-```text
-> initializing vexis-app...
-> voice module: active
-> listening for commands...
+
