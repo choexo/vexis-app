@@ -1,8 +1,8 @@
 # vexis-app
 
-> **status:** fork-active
-> **origin:** [SimpleBluetoothLeTerminal](https://github.com/kai-morich/SimpleBluetoothLeTerminal.git)
-> **intent:** hardware-voice-override
+ **status:** fork-active
+ **origin:** [SimpleBluetoothLeTerminal](https://github.com/kai-morich/SimpleBluetoothLeTerminal.git)
+ **intent:** hardware-voice-override
 
 ---
 
@@ -20,4 +20,6 @@ the original terminal code has been modified to include **voice functionality**.
 
 ---
 
+### attribution
+this project is a functional fork of the [SimpleBluetoothLeTerminal](https://github.com/kai-morich/SimpleBluetoothLeTerminal.git) repository by **kai-morich**. all credit for the original bluetooth stack and terminal framework goes to the original author.
 
